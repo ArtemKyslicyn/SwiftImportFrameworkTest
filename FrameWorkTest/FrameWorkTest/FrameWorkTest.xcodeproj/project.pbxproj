@@ -378,6 +378,7 @@
 				6A87F50A19C843A100E8F31B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A87F50B19C843A100E8F31B /* Build configuration list for PBXNativeTarget "FrameWorkTestTests" */ = {
 			isa = XCConfigurationList;
@@ -386,6 +387,7 @@
 				6A87F50D19C843A100E8F31B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

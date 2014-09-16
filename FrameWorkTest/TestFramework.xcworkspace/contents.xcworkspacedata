@@ -4,13 +4,6 @@
    <FileRef
       location = "group:test/test.xcodeproj">
    </FileRef>
-   <Group
-      location = "container:"
-      name = "Common">
-      <FileRef
-         location = "group:Common/TestClass.swift">
-      </FileRef>
-   </Group>
    <FileRef
       location = "group:FrameWorkTest/FrameWorkTest.xcodeproj">
    </FileRef>
